@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-20 09:08:28</sys_created_on>
+        <sys_id>63723ba1c3aa7210af4495dc05013111</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_windsurf.dummy</sys_name>
+        <sys_package display_value="windsurf" source="dd127761c3aa7210af4495dc05013111">dd127761c3aa7210af4495dc05013111</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="windsurf">dd127761c3aa7210af4495dc05013111</sys_scope>
+        <sys_security_acl display_value="u_windsurf">6f723ba1c3aa7210af4495dc0501310b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_63723ba1c3aa7210af4495dc05013111</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-20 09:08:28</sys_updated_on>
+        <sys_user_role display_value="dummy" name="dummy">b832b7adc36a7210af4495dc050131c5</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
