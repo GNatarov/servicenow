@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="8772b7a1c3aa7210af4495dc050131f3" extends="task" label="windsurf" max_length="40" name="u_windsurf" type="collection"/>
+    <element db_object_id="8772b7a1c3aa7210af4495dc050131f3" extends="task" label="windsurf" max_length="40" name="u_windsurf" type="collection">
+        <element display="true" label="Price" max_length="40" name="u_price" type="decimal"/>
+        <element choice="1" display="true" label="Level" max_length="40" name="u_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Second" value="Second"/>
+                <element inactive_on_update="false" label="First" value="First"/>
+            </choice>
+        </element>
+    </element>
 </database>
