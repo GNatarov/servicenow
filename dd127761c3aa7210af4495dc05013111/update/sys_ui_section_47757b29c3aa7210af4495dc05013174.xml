@@ -141,8 +141,36 @@
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
+            <element>u_do_you_want_coffee</element>
             <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-01-20 11:50:00</sys_created_on>
+            <sys_id>e173b7a1c3aa7210af4495dc050131b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_windsurf" sys_domain="global" view="Default view">47757b29c3aa7210af4495dc05013174</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-01-20 11:50:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_coffee_brand</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-01-20 11:50:00</sys_created_on>
+            <sys_id>e573b7a1c3aa7210af4495dc050131ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_windsurf" sys_domain="global" view="Default view">47757b29c3aa7210af4495dc05013174</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-01-20 11:50:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2026-01-20 09:51:50</sys_created_on>
             <sys_id>3a6cffa5c3ea7210af4495dc05013181</sys_id>
@@ -156,7 +184,7 @@
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>11</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2026-01-20 09:51:50</sys_created_on>
             <sys_id>f26cffa5c3ea7210af4495dc05013182</sys_id>
@@ -170,7 +198,7 @@
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>12</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2026-01-20 09:51:50</sys_created_on>
             <sys_id>be6cffa5c3ea7210af4495dc05013182</sys_id>
@@ -184,7 +212,7 @@
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_notes</element>
-            <position>13</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2026-01-20 09:51:50</sys_created_on>
             <sys_id>7a6cffa5c3ea7210af4495dc05013183</sys_id>
