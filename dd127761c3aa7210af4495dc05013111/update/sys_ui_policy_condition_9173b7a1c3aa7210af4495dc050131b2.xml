@@ -11,6 +11,6 @@
         <sys_updated_on>2026-01-20 10:17:00</sys_updated_on>
         <table>u_windsurf</table>
         <ui_policy display_value="Show Price for First Level">8d73b7a1c3aa7210af4495dc050131b1</ui_policy>
-        <value>First</value>
+        <value>first</value>
     </sys_ui_policy_condition>
 </record_update>
